@@ -1,0 +1,10 @@
+{
+  "name": "youtube-title-analysis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "kamataryo <mugil.cephalus+ciconia.local@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "googleapis": "^36.0.0"
+  }
+}
