@@ -58,7 +58,10 @@ const main = async () => {
     })
   }
 
-  fs.writeFileSync(path.join(__dirname, 'output.json'), JSON.stringify(result))
+  fs.writeFileSync(
+    path.join(__dirname, 'output_requested.json'),
+    JSON.stringify(result)
+  )
 }
 
 main()

@@ -5,6 +5,7 @@
   "author": "kamataryo <mugil.cephalus+ciconia.local@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "googleapis": "^36.0.0"
+    "googleapis": "^36.0.0",
+    "kuromoji": "^0.1.2"
   }
 }
